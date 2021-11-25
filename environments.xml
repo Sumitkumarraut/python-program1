@@ -1,0 +1,38 @@
+<Environment>
+   <Cfg id = "1">
+       <Descriptor> C:\Program Files (x86)\VMware\VMware Workstation\env\ws-hw3.xml </Descriptor>
+       <Options> C:\Program Files (x86)\VMware\VMware Workstation\env\vmconfigoption-ws-hw3.xml</Options>
+   </Cfg>
+   <Cfg id = "2">
+       <Descriptor> C:\Program Files (x86)\VMware\VMware Workstation\env\ws-hw4.xml </Descriptor>
+       <Options> C:\Program Files (x86)\VMware\VMware Workstation\env\vmconfigoption-ws-hw4.xml</Options>
+   </Cfg>
+   <Cfg id = "3">
+       <Descriptor> C:\Program Files (x86)\VMware\VMware Workstation\env\ws-hw6.xml </Descriptor>
+       <Options> C:\Program Files (x86)\VMware\VMware Workstation\env\vmconfigoption-ws-hw6.xml</Options>
+   </Cfg>
+   <Cfg id = "4">
+       <Descriptor> C:\Program Files (x86)\VMware\VMware Workstation\env\ws-hw7.xml </Descriptor>
+       <Options> C:\Program Files (x86)\VMware\VMware Workstation\env\vmconfigoption-ws-hw7.xml</Options>
+   </Cfg>
+   <Cfg id = "5">
+       <Descriptor> C:\Program Files (x86)\VMware\VMware Workstation\env\ws-hw8.xml </Descriptor>
+       <Options> C:\Program Files (x86)\VMware\VMware Workstation\env\vmconfigoption-ws-hw8.xml</Options>
+   </Cfg>
+   <Cfg id = "6">
+       <Descriptor> C:\Program Files (x86)\VMware\VMware Workstation\env\ws-hw9.xml </Descriptor>
+       <Options> C:\Program Files (x86)\VMware\VMware Workstation\env\vmconfigoption-ws-hw9.xml</Options>
+   </Cfg>
+   <Cfg id = "7">
+       <Descriptor> C:\Program Files (x86)\VMware\VMware Workstation\env\ws-hw10.xml </Descriptor>
+       <Options> C:\Program Files (x86)\VMware\VMware Workstation\env\vmconfigoption-ws-hw10.xml</Options>
+   </Cfg>
+   <Cfg id = "8">
+       <Descriptor> C:\Program Files (x86)\VMware\VMware Workstation\env\ws-hw11.xml </Descriptor>
+       <Options> C:\Program Files (x86)\VMware\VMware Workstation\env\vmconfigoption-ws-hw11.xml</Options>
+   </Cfg>
+   <Cfg id = "9">
+       <Descriptor> C:\Program Files (x86)\VMware\VMware Workstation\env\ws-hw12.xml </Descriptor>
+       <Options> C:\Program Files (x86)\VMware\VMware Workstation\env\vmconfigoption-ws-hw12.xml</Options>
+   </Cfg>
+</Environment>
